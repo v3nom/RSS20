@@ -1,0 +1,17 @@
+{
+  "name": "rss20",
+  "version": "1.0.0",
+  "description": "Simple RSS 2.0 feed generator",
+  "repository": "git://github.com/v3nom/RSS20.git",
+  "bugs": {
+    "url": "http://github.com/v3nom/RSS20/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "rss",
+    "rss 2.0",
+    "rss2"
+  ],
+  "author": "Tomas Grubliauskas",
+  "license": "MIT"
+}
