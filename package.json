@@ -1,6 +1,6 @@
 {
   "name": "rss20",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple RSS 2.0 feed generator",
   "repository": "git://github.com/v3nom/RSS20.git",
   "bugs": {
