@@ -3,10 +3,11 @@ var fs = require('fs');
 
 var Feed = RSS20.Feed;
 var Item = RSS20.Item;
+RSS20.Configuration.wrapInCDATA = true;
 
 var feed = new Feed();
 feed.title = 'FeedTitle';
-feed.description = 'FeedDescription';
+feed.description = 'FeedDescription <p>V</p>';
 
 var item1 = new Item();
 item1.title = 'Item1Title';
